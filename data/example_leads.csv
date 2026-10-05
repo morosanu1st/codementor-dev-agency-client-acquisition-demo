@@ -1,0 +1,19 @@
+id,company,contact_role,service,source,stage,lost_at,value_eur,last_contact,next_step
+L01,Example Dental Clinic,Owner,Website redesign,LinkedIn,Won,,6500,2026-09-10,Kickoff done
+L02,Sample Logistics SRL,Operations Manager,AI automation (invoice OCR),Referral,Proposal,,12000,2026-09-28,Chase proposal decision
+L03,Demo Fitness Studio,Founder,Mobile app (bookings),Cold email,Contacted,,9000,2026-09-22,Send follow-up #2
+L04,Placeholder Real Estate,Marketing Lead,Website + CMS,Clutch,Call booked,,7000,2026-10-02,Discovery call Thu
+L05,Fictional SaaS Startup,CTO,SaaS MVP,Upwork,Lost,Proposal,25000,2026-09-05,Lost on price - ask for feedback
+L06,Example Law Office,Managing Partner,UX/UI audit,LinkedIn,Contacted,,3000,2026-10-01,Wait for reply
+L07,Sample E-commerce Shop,Owner,Shopify custom app,Cold email,Prospect,,5000,,Research + first message
+L08,Demo Manufacturing Co,IT Manager,Internal tool (React + API),Referral,Won,,18000,2026-08-30,Delivery in progress
+L09,Placeholder Clinic Group,COO,AI chatbot for patient FAQ,LinkedIn,Proposal,,9500,2026-09-20,Proposal sent - no reply
+L10,Fictional Travel Agency,Founder,Website redesign,Cold email,Lost,Contacted,6000,2026-09-01,No reply after 3 touches
+L11,Example Accounting Firm,Partner,Workflow automation,Upwork,Call booked,,8000,2026-09-25,Call was no-show - reschedule
+L12,Sample Coffee Chain,Marketing Manager,Loyalty mobile app,Clutch,Contacted,,15000,2026-09-18,Send case study
+L13,Demo HR Startup,CEO,SaaS dashboard UX/UI,LinkedIn,Prospect,,7500,,Connect on LinkedIn
+L14,Placeholder Construction,Owner,Website + lead forms,Referral,Lost,Call booked,4000,2026-09-12,Went with cheaper freelancer
+L15,Fictional Edtech,Product Lead,Mobile app MVP,Cold email,Won,,22000,2026-09-15,Contract signed
+L16,Example Car Rental,Ops Lead,Booking system integration,Upwork,Contacted,,6000,2026-09-29,Follow-up scheduled
+L17,Sample Insurance Broker,Director,AI document triage,LinkedIn,Prospect,,11000,,Find decision maker
+L18,Demo Veterinary Clinic,Owner,Website redesign,Cold email,Lost,Contacted,3500,2026-08-25,Not interested
